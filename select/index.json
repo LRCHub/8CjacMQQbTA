@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Chill in the shell",
+  "base_artist": "パミレド",
+  "createdAt": "2026-03-18T02:50:56.511720Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chill in the shell",
+      "artist": "パミレド",
+      "has_synced": false,
+      "path": "select/pl_01_Chill_in_the_shell_パミレド.txt"
+    }
+  ]
+}
